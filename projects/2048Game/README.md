@@ -2,7 +2,7 @@
 
 ## Goal of Project:
 
-- Write the core logic behind the 2048 Game: 1) What happens when there are empty spaces around tiles 2) What happens when two of the same-numbered tiles are adjacent to each other 3) What happens to surrounding tiles when you move one tile either up, down, left, or to the right
+- Write the core logic behind the 2048 Game: 1) What happens when there are empty spaces around tiles 2) What happens when two of the same-numbered tiles are adjacent to each other 3) What happens to surrounding tiles when you move one tile UP, DOWN, LEFT, or RIGHT
 
 ## Files to Look At + My Task:
 

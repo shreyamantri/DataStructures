@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// @author: Shreya Mantripragada
 public class ArrayDeque<T> implements Deque<T> {
 
     private T[] values;

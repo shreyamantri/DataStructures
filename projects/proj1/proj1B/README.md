@@ -2,7 +2,7 @@
 
 ## Goal of Project:
 
-- Implement the Deque interface that uses a backing array instead of linked nodes
+- Implement a Deque interface that uses a backing array instead of linked nodes
 
 ## Files to Look At + What I Did:
 

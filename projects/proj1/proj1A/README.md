@@ -8,8 +8,8 @@
 
 # LinkedListDeque.java
 
-- addFirst(): add nodes to the front of the LinkedList Deque, readjusting pointers such that the added element is the first element in the Deque and now points to original first item
-- addLast(): add nodes to the end of the LinkedList Deque, adjusting pointers such that the original last item now points to the added element
+- addFirst(): add nodes to the front of the LinkedList Deque, readjusting the sentinel pointer and other pointers such that the added element is the first element in the Deque and now points to original first item
+- addLast(): add nodes to the end of the LinkedList Deque, readjusting the sentinel pointer and other pointers such that the original last item now points to the added element
 - toList(): create a string representation of the LinkedList for testing purposes
 - isEmpty(): returns True if Deque is empty
 - size(): returns the size of the Deque, or the number of Nodes

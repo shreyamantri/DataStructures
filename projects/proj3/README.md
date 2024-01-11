@@ -13,5 +13,5 @@
 - Avatar.java: Creates an Avatar object with X, Y, width, and height variables
 - Coordinate.java: Represents the X and Y coordinates for each Room
 - Room.java: Represents a Room object with the given Coordinate
-- World.java: Creates a world with multiple Rooms, with hallways connecting each room, and a wall surrounding the rooms and hallways
+- World.java: Creates a world with multiple Rooms, with hallways connecting each Room, and a wall surrounding the Rooms and hallways
 - Main.java: Calls the World class, passing in the random seed for the room and hallway generation 

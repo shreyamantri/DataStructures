@@ -8,7 +8,7 @@
 
 # Graph.java
 - Creates two hashmap objects, one maps the word ID to the word, and the other maps the word to the ID
-- Use this class and the hashmaps in the HyponymsHandler class
+- The HyponymsHandler class uses the Graph class to access the ID-word or word-ID relationship
 
 # HyponymsHandler.java 
 

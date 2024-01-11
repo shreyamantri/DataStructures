@@ -6,6 +6,10 @@
 
 ## Files to Look At + My Task:
 
+# Graph.java
+- Creates two hashmap objects, one maps the word ID to the word, and the other maps the word to the ID
+- Use this class and the hashmaps in the HyponymsHandler class
+
 # HyponymsHandler.java 
 
 - Basic case: returns a string representation of a list of the hyponyms of the single world

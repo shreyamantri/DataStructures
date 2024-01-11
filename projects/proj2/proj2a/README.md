@@ -1,19 +1,19 @@
-# LinkedListDeque
+# NGordnet (NGrams)
 
 ## Goal of Project:
 
-- Create a representation of a LinkedListDeque, with a sentinel pointing to the first element and each node pointing to the next node until there's a null value
+- Build a browser-based tool for exploring the history of word usage in English texts
 
 ## Files to Look At + My Task:
 
-# LinkedListDeque.java
+# TimeSeries.java 
 
-- addFirst(): add nodes to the front of the LinkedList Deque, readjusting the sentinel pointer and other pointers such that the added element is the first element in the Deque and now points to original first item
-- addLast(): add nodes to the end of the LinkedList Deque, readjusting the sentinel pointer and other pointers such that the original last item now points to the added element
-- toList(): create a string representation of the LinkedList for testing purposes
-- isEmpty(): returns True if Deque is empty
-- size(): returns the size of the Deque, or the number of Nodes
-- get(int index): return the value of the Node at the given index
-- getRecursive(int index): return the value of the Node at the given index using a recursive process
-- removeFirst(): remove the first Node in the LinkedListDeque, readjusting pointers
-- removeLast(): remove the last Node in the LinkedListDeque, readjusting pointers
+- The TimeSeries class follows the convention of a TreeMap, where the key type is an Integer and the value type parameter is a Double
+
+# NGramMap.java
+
+- The NGramMap class contains methods that allow the user to interact with Google's NGrams dataset
+
+# HistoryTextHandler.java
+
+- Uses software engineering to set up a web server that can NGordnetQueries
